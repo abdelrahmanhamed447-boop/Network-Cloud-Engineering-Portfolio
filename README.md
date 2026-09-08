@@ -12,15 +12,21 @@ This repository serves as a central index for my technical projects, labs, docum
 
 - [About This Portfolio](#-about-this-portfolio)
 - [Projects](#-projects)
-  - [Microsoft Entra Identity & Azure Governance Lab](#-microsoft-entra-identity-synchronization--azure-governance-lab)
+  - [Microsoft Entra Identity, Synchronization & Azure Governance Lab](#-microsoft-entra-identity-synchronization--azure-governance-lab)
   - [Azure Enterprise Network Lab](#-azure-enterprise-network-lab)
   - [Active Directory Infrastructure Lab](#-active-directory-infrastructure-lab)
   - [Network Reachability Checker](#-network-reachability-checker)
-  - [Network Path & OSPF Cost Simulator](#-network-path--ospf-cost-simulator)
   - [Smart Museum System](#-smart-museum-system)
 - [Technical Areas](#-technical-areas)
+  - [Enterprise Networking](#-enterprise-networking)
+  - [Microsoft Azure](#-microsoft-azure)
+  - [Microsoft Entra ID & Identity](#-microsoft-entra-id--identity)
+  - [Azure Governance](#-azure-governance)
+  - [Windows Server & Active Directory](#-windows-server--active-directory)
+  - [Network Automation](#-network-automation)
 - [Core Technologies](#-core-technologies)
 - [Documentation](#-documentation)
+- [Portfolio Focus](#-portfolio-focus)
 - [Connect With Me](#-connect-with-me)
 
 ---
@@ -189,30 +195,6 @@ based on the configured topology and link costs.
 
 ---
 
-## 🐍 Network Path & OSPF Cost Simulator
-
-A Python-based networking project focused on **network path calculation, OSPF concepts, and routing behavior simulation**.
-
-### Key Areas
-
-- Python
-- Dijkstra's Algorithm
-- OSPF
-- Network Topology
-- Shortest Path Calculation
-- Routing Simulation
-- Network Automation
-
-### Practical Work
-
-- Simulated network topologies using Python.
-- Implemented shortest-path calculations.
-- Modeled OSPF path selection concepts.
-- Analyzed routing behavior and path selection.
-- Applied Python scripting to network path optimization.
-
----
-
 ## 🏛️ Smart Museum System
 
 An **IoT Graduation Project** focused on museum monitoring and sensor-based detection.
@@ -220,11 +202,12 @@ An **IoT Graduation Project** focused on museum monitoring and sensor-based dete
 ### Key Areas
 
 - IoT
+- Sensor-Based Monitoring
 - Metal Detection
 - Flame Detection
 - Infrared (IR) Sensor
-- Sensor-Based Monitoring
 - Automated Alerts
+- Embedded Systems
 
 ### Contribution
 
@@ -329,6 +312,7 @@ Supported sensor-based monitoring and automated alert functionality.
 - Network Path Simulation
 - OSPF Cost Simulation
 - Network Reachability Testing
+- PowerShell
 
 ---
 
