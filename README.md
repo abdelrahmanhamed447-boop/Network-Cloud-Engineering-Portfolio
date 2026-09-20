@@ -12,17 +12,18 @@ This repository serves as a central index for my technical projects, labs, docum
 
 - [About This Portfolio](#-about-this-portfolio)
 - [Projects](#-projects)
+  - [Microsoft Intune Endpoint Management, Security & Remote Support Lab](#-microsoft-intune-endpoint-management-security--remote-support-lab)
   - [Microsoft Entra Identity, Synchronization & Azure Governance Lab](#-microsoft-entra-identity-synchronization--azure-governance-lab)
   - [Azure Enterprise Network Lab](#-azure-enterprise-network-lab)
   - [Active Directory Infrastructure Lab](#-active-directory-infrastructure-lab)
   - [Network Reachability Checker](#-network-reachability-checker)
-  - [Smart Museum System](#-smart-museum-system)
+  - [Smart Museum System](#️-smart-museum-system)
 - [Technical Areas](#-technical-areas)
   - [Enterprise Networking](#-enterprise-networking)
-  - [Microsoft Azure](#-microsoft-azure)
+  - [Microsoft Azure](#️-microsoft-azure)
   - [Microsoft Entra ID & Identity](#-microsoft-entra-id--identity)
-  - [Azure Governance](#-azure-governance)
-  - [Windows Server & Active Directory](#-windows-server--active-directory)
+  - [Azure Governance](#️-azure-governance)
+  - [Windows Server & Active Directory](#️-windows-server--active-directory)
   - [Network Automation](#-network-automation)
 - [Core Technologies](#-core-technologies)
 - [Documentation](#-documentation)
@@ -44,6 +45,7 @@ This portfolio contains practical projects and technical labs demonstrating hand
 - 🔑 VPN & Remote Connectivity
 - 🐍 Python & Network Automation
 - 🔄 Identity Synchronization
+- 📱 Microsoft Intune & Endpoint Management
 - 🧩 Network Troubleshooting
 
 Each project includes technical implementation details, configuration activities, practical validation, and supporting documentation where available.
@@ -51,6 +53,52 @@ Each project includes technical implementation details, configuration activities
 ---
 
 # 🚀 Projects
+
+## 📱 Microsoft Intune Endpoint Management, Security & Remote Support Lab
+
+A hands-on **Microsoft Intune lab** focused on endpoint management, device security, application deployment, compliance, enrollment, and remote support using Microsoft Intune integrated with Microsoft Entra ID.
+
+### Key Areas
+
+- Microsoft Intune
+- Microsoft Entra ID
+- Windows Device Management
+- Android Device Management
+- Device Enrollment
+- Enrollment Restrictions
+- Scope Tags
+- Compliance Policies
+- Device Configuration
+- Endpoint Security
+- Application Management
+- Android App Protection
+- Conditional Access
+- BitLocker Management
+- Managed Google Play
+- Remote Help
+
+### Practical Work
+
+- Configured Windows and Android device enrollment.
+- Managed enrolled devices using Microsoft Intune.
+- Configured enrollment restrictions.
+- Configured Scope Tags for administrative management scope.
+- Created and configured compliance policies.
+- Configured endpoint security policies.
+- Configured device configuration policies.
+- Deployed and managed applications through Microsoft Intune.
+- Configured Android App Protection.
+- Configured Conditional Access integrated with Microsoft Entra ID and Intune.
+- Configured BitLocker management for Windows devices.
+- Integrated Managed Google Play.
+- Configured and tested Remote Help.
+- Monitored enrolled devices and managed applications and policies.
+
+📂 [**View Project on GitHub**](https://github.com/abdelrahmanhamed447-boop/Microsoft-Intune-Endpoint-Management-Security-Remote-Support-Lab)
+
+📄 [**View / Download Complete Lab Documentation**](https://github.com/abdelrahmanhamed447-boop/Microsoft-Intune-Endpoint-Management-Security-Remote-Support-Lab/blob/main/Microsoft-Intune-Endpoint-Management-Security-Remote-Support-Lab.pdf)
+
+---
 
 ## 🔐 Microsoft Entra Identity, Synchronization & Azure Governance Lab
 
@@ -84,9 +132,9 @@ A hands-on lab focused on **Microsoft Entra ID, Identity Synchronization, Active
 - Tested Azure VM deployments against policy controls.
 - Analyzed policy-denied deployments.
 
-📂 **[View Project on GitHub](https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab)**
+📂 [**View Project on GitHub**](https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab)
 
-📄 **[View / Download Complete 100-Page Documentation](https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab/raw/refs/heads/main/microsoft-entra-id-azure-governance-lab.pdf)**
+📄 [**View / Download Complete 100-Page Documentation**](https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab/raw/refs/heads/main/microsoft-entra-id-azure-governance-lab.pdf)
 
 ---
 
@@ -121,9 +169,9 @@ A hands-on **Microsoft Azure networking lab** demonstrating practical experience
 - Established Point-to-Site VPN connectivity.
 - Performed Azure network troubleshooting.
 
-📂 **[View Project on GitHub](https://github.com/abdelrahmanhamed447-boop/Azure-Enterprise-Lab)**
+📂 [**View Project on GitHub**](https://github.com/abdelrahmanhamed447-boop/Azure-Enterprise-Lab)
 
-📄 **[View / Download Azure Enterprise Lab Documentation](https://github.com/abdelrahmanhamed447-boop/Azure-Enterprise-Lab/raw/refs/heads/main/Azure_Enterprise_Lab_GitHub_Ordered.pdf)**
+📄 [**View / Download Azure Enterprise Lab Documentation**](https://github.com/abdelrahmanhamed447-boop/Azure-Enterprise-Lab/raw/refs/heads/main/Azure_Enterprise_Lab_GitHub_Ordered.pdf)
 
 ---
 
@@ -152,9 +200,9 @@ A hands-on **Windows Server 2025 Active Directory lab** focused on designing and
 - Implemented Group Policy Management.
 - Demonstrated centralized identity and access management.
 
-📂 **[View Project on GitHub](https://github.com/abdelrahmanhamed447-boop/Active-Directory-Infrastructure-Lab)**
+📂 [**View Project on GitHub**](https://github.com/abdelrahmanhamed447-boop/Active-Directory-Infrastructure-Lab)
 
-📄 **[View / Download Active Directory Lab Documentation](https://github.com/abdelrahmanhamed447-boop/Active-Directory-Infrastructure-Lab/raw/refs/heads/main/Active%20Directory%20Infrastructure%20Lab.pdf)**
+📄 [**View / Download Active Directory Lab Documentation**](https://github.com/abdelrahmanhamed447-boop/Active-Directory-Infrastructure-Lab/raw/refs/heads/main/Active%20Directory%20Infrastructure%20Lab.pdf)
 
 ---
 
@@ -189,9 +237,9 @@ Calculated the lowest-cost path between:
 
 based on the configured topology and link costs.
 
-📂 **[View Project on GitHub](https://github.com/abdelrahmanhamed447-boop/Network-_Reachability_Checker)**
+📂 [**View Project on GitHub**](https://github.com/abdelrahmanhamed447-boop/Network-_Reachability_Checker)
 
-📄 **[View Project Documentation](https://github.com/abdelrahmanhamed447-boop/Network-_Reachability_Checker/blob/main/Network%20_Reachability_Checker.pdf)**
+📄 [**View Project Documentation**](https://github.com/abdelrahmanhamed447-boop/Network-_Reachability_Checker/blob/main/Network%20_Reachability_Checker.pdf)
 
 ---
 
@@ -318,12 +366,13 @@ Supported sensor-based monitoring and automated alert functionality.
 
 # 🧰 Core Technologies
 
-| Category | Technologies |
-|---|---|
+| **Category** | **Technologies** |
+| ------------------------ | ---------------------------------------------------------------------------- |
 | **Networking** | OSPF, EIGRP, BGP, IS-IS, MPLS, VLANs, STP, HSRP, VRRP, GLBP |
 | **Cloud** | Microsoft Azure |
 | **Azure Networking** | VNet, Subnets, NSG, Load Balancer, VPN Gateway, P2S VPN, Application Gateway |
 | **Identity** | Microsoft Entra ID, Connect Sync, Cloud Sync, Active Directory |
+| **Endpoint Management** | Microsoft Intune, Windows & Android Device Management, Compliance, Endpoint Security |
 | **Governance** | Azure Policy, Policy Compliance, VM Governance |
 | **Windows** | Windows Server, AD DS, DNS, DHCP, GPO |
 | **Automation** | Python, PowerShell |
@@ -336,6 +385,9 @@ Supported sensor-based monitoring and automated alert functionality.
 Detailed documentation and implementation evidence are available within the individual project repositories.
 
 ### Project Documentation
+
+📄 **Microsoft Intune Endpoint Management, Security & Remote Support Lab**  
+[View Project Documentation](https://github.com/abdelrahmanhamed447-boop/Microsoft-Intune-Endpoint-Management-Security-Remote-Support-Lab/blob/main/Microsoft-Intune-Endpoint-Management-Security-Remote-Support-Lab.pdf)
 
 📄 **Microsoft Entra Identity, Synchronization & Azure Governance Lab**  
 [View Complete 100-Page Documentation](https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab/raw/refs/heads/main/microsoft-entra-id-azure-governance-lab.pdf)
@@ -355,11 +407,12 @@ Detailed documentation and implementation evidence are available within the indi
 
 This portfolio demonstrates practical experience across the following areas:
 
-| Area | Focus |
-|---|---|
+| **Area** | **Focus** |
+| ---------------------- | ------------------------------------- |
 | 🌐 **Networking** | Enterprise Routing & Switching |
 | ☁️ **Cloud** | Microsoft Azure |
 | 🔐 **Identity** | Microsoft Entra ID & Active Directory |
+| 📱 **Endpoint Management** | Microsoft Intune |
 | 🛡️ **Governance** | Azure Policy & VM Governance |
 | 🖥️ **Infrastructure** | Windows Server & Active Directory |
 | 🔑 **Connectivity** | VPN Gateway & P2S VPN |
@@ -372,13 +425,16 @@ This portfolio demonstrates practical experience across the following areas:
 # 📫 Connect With Me
 
 📧 **Email:**  
-abdelrahmanhamed447@gmail.com
+[abdelrahman447@gmail.com](mailto:abdelrahman447@gmail.com)
+
+📱 **Egypt:**  
+01015597758
 
 📱 **Saudi Arabia:**  
 +966 56 785 6133
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/abdelrahman-hamed-b51a583a9/
+[https://www.linkedin.com/in/abdelrahman-hamed-b51a583a9/](https://www.linkedin.com/in/abdelrahman-hamed-b51a583a9/)
 
 🐙 **GitHub:**  
 https://github.com/abdelrahmanhamed447-boop
@@ -390,6 +446,6 @@ https://github.com/abdelrahmanhamed447-boop/Certifications
 
 ## ⭐ Final Note
 
-This repository serves as a central portfolio for my **Network Engineering, Cloud Networking, Microsoft Azure, Windows Server, Identity Management, Governance, and Network Automation projects**.
+This repository serves as a central portfolio for my **Network Engineering, Cloud Networking, Microsoft Azure, Windows Server, Identity Management, Governance, Endpoint Management, and Network Automation projects**.
 
 ⭐ **Feel free to explore the projects, repositories, and technical documentation.**
