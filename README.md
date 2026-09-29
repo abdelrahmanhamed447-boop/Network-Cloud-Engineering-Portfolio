@@ -1,8 +1,8 @@
 # Network & Cloud Engineering Portfolio
 
-### Network Engineer | CCNP Enterprise | Microsoft Azure | Windows Server | Identity & Cloud Networking | Python
+### Network Engineer | CCNP Enterprise | Microsoft Azure | Microsoft 365 | Windows Server | Identity & Cloud Networking | Python
 
-A professional portfolio showcasing hands-on projects and technical labs focused on **Enterprise Networking, Microsoft Azure, Windows Server, Active Directory, Microsoft Entra ID, Azure Governance, and Network Automation**.
+A professional portfolio showcasing hands-on projects and technical labs focused on **Enterprise Networking, Microsoft Azure, Microsoft 365, Windows Server, Active Directory, Microsoft Entra ID, Azure Governance, Endpoint Management, and Network Automation**.
 
 This repository serves as a central index for my technical projects, labs, documentation, and practical implementations.
 
@@ -18,11 +18,13 @@ This repository serves as a central index for my technical projects, labs, docum
   - [Active Directory Infrastructure Lab](#-active-directory-infrastructure-lab)
   - [Network Reachability Checker](#-network-reachability-checker)
   - [Smart Museum System](#️-smart-museum-system)
+  - [Microsoft 365 Administration & Security Lab | MS-102](#️-microsoft-365-administration--security-lab--ms-102)
 - [Technical Areas](#-technical-areas)
   - [Enterprise Networking](#-enterprise-networking)
   - [Microsoft Azure](#️-microsoft-azure)
   - [Microsoft Entra ID & Identity](#-microsoft-entra-id--identity)
   - [Azure Governance](#️-azure-governance)
+  - [Microsoft 365 Administration](#️-microsoft-365-administration)
   - [Windows Server & Active Directory](#️-windows-server--active-directory)
   - [Network Automation](#-network-automation)
 - [Core Technologies](#-core-technologies)
@@ -38,6 +40,7 @@ This portfolio contains practical projects and technical labs demonstrating hand
 
 - 🌐 Enterprise Networking
 - ☁️ Microsoft Azure Networking
+- ☁️ Microsoft 365 Administration
 - 🔐 Microsoft Entra ID & Identity Management
 - 🖥️ Windows Server & Active Directory
 - 🛡️ Azure Governance & Azure Policy
@@ -47,6 +50,7 @@ This portfolio contains practical projects and technical labs demonstrating hand
 - 🔄 Identity Synchronization
 - 📱 Microsoft Intune & Endpoint Management
 - 🧩 Network Troubleshooting
+- 🛡️ Microsoft 365 Security & Compliance
 
 Each project includes technical implementation details, configuration activities, practical validation, and supporting documentation where available.
 
@@ -269,6 +273,55 @@ Supported sensor-based monitoring and automated alert functionality.
 
 ---
 
+## ☁️ Microsoft 365 Administration & Security Lab | MS-102
+
+A hands-on **Microsoft 365 administration and security lab** focused on user and license management, Microsoft 365 Apps deployment, Exchange Online, Microsoft Teams, SharePoint Online, Microsoft Entra ID, Microsoft Defender, Attack Simulation Training, and Microsoft Purview.
+
+### Key Areas
+
+- Microsoft 365 Administration
+- User & License Management
+- Administrative Units
+- Administrative Roles
+- Password Management
+- Microsoft 365 Apps Deployment
+- Office Customization Tool
+- Exchange Online
+- Microsoft Teams
+- SharePoint Online
+- Microsoft Entra ID
+- Registered, Joined & Hybrid Joined Devices
+- Microsoft Defender
+- Anti-Phishing
+- Anti-Spam
+- Anti-Malware
+- Attack Simulation Training
+- Microsoft Purview
+- Data Loss Prevention (DLP)
+- Retention
+- Microsoft 365 Groups
+- Dynamic Group Membership
+
+### Practical Work
+
+- Administered Microsoft 365 users, licenses, administrative units, roles, groups, and password management.
+- Deployed Microsoft 365 Apps using the Office Customization Tool.
+- Configured Microsoft 365 Apps installation, update, and licensing settings.
+- Configured Exchange Online resources and transport rules.
+- Configured Microsoft Teams and team membership.
+- Configured and reviewed SharePoint Online resources.
+- Managed Microsoft Entra registered, joined, and hybrid joined devices.
+- Configured Microsoft Defender security policies.
+- Configured and validated Attack Simulation Training.
+- Configured Microsoft Purview compliance, retention, and Data Loss Prevention (DLP).
+- Configured Microsoft 365 Groups and dynamic membership.
+
+📂 **Project:** `Microsoft-365-Administration-Security-Lab-MS-102`
+
+📄 **Project Documentation:** `Microsoft-365-Administration-Security-Lab-MS-102-Compressed.pdf`
+
+---
+
 # 🛠️ Technical Areas
 
 ## 🌐 Enterprise Networking
@@ -337,6 +390,43 @@ Supported sensor-based monitoring and automated alert functionality.
 
 ---
 
+## ☁️ Microsoft 365 Administration
+
+- Microsoft 365 Tenant Administration
+- User & License Management
+- Administrative Units
+- Administrative Roles
+- Microsoft 365 Apps Deployment
+- Office Customization Tool
+- Exchange Online
+- Microsoft Teams
+- SharePoint Online
+- Microsoft Entra ID
+- Microsoft Defender
+- Attack Simulation Training
+- Microsoft Purview
+- Data Loss Prevention (DLP)
+- Retention
+- Microsoft 365 Groups
+- Dynamic Group Membership
+
+---
+
+## 📱 Endpoint Management
+
+- Microsoft Intune
+- Windows Device Management
+- Android Device Management
+- Device Enrollment
+- Compliance Policies
+- Endpoint Security
+- Configuration Profiles
+- Application Management
+- Managed Google Play
+- Remote Help
+
+---
+
 ## 🖥️ Windows Server & Active Directory
 
 - Windows Server 2016 / 2019 / 2022 / 2025
@@ -367,10 +457,11 @@ Supported sensor-based monitoring and automated alert functionality.
 # 🧰 Core Technologies
 
 | **Category** | **Technologies** |
-| ------------------------ | ---------------------------------------------------------------------------- |
+|---|---|
 | **Networking** | OSPF, EIGRP, BGP, IS-IS, MPLS, VLANs, STP, HSRP, VRRP, GLBP |
 | **Cloud** | Microsoft Azure |
 | **Azure Networking** | VNet, Subnets, NSG, Load Balancer, VPN Gateway, P2S VPN, Application Gateway |
+| **Microsoft 365** | Microsoft 365 Administration, Exchange Online, Teams, SharePoint, Defender, Purview, DLP |
 | **Identity** | Microsoft Entra ID, Connect Sync, Cloud Sync, Active Directory |
 | **Endpoint Management** | Microsoft Intune, Windows & Android Device Management, Compliance, Endpoint Security |
 | **Governance** | Azure Policy, Policy Compliance, VM Governance |
@@ -401,6 +492,11 @@ Detailed documentation and implementation evidence are available within the indi
 📄 **Network Reachability Checker**  
 [View Network Reachability Checker Documentation](https://github.com/abdelrahmanhamed447-boop/Network-_Reachability_Checker/blob/main/Network%20_Reachability_Checker.pdf)
 
+📄 **Microsoft 365 Administration & Security Lab | MS-102**  
+[View MS-102 Project Repository](YOUR-MS-102-REPOSITORY-LINK)
+
+[View / Download MS-102 Project Documentation](YOUR-MS-102-PDF-LINK)
+
 ---
 
 # 📊 Portfolio Focus
@@ -408,9 +504,10 @@ Detailed documentation and implementation evidence are available within the indi
 This portfolio demonstrates practical experience across the following areas:
 
 | **Area** | **Focus** |
-| ---------------------- | ------------------------------------- |
+|---|---|
 | 🌐 **Networking** | Enterprise Routing & Switching |
 | ☁️ **Cloud** | Microsoft Azure |
+| ☁️ **Microsoft 365** | Microsoft 365 Administration & Security |
 | 🔐 **Identity** | Microsoft Entra ID & Active Directory |
 | 📱 **Endpoint Management** | Microsoft Intune |
 | 🛡️ **Governance** | Azure Policy & VM Governance |
@@ -446,6 +543,6 @@ https://github.com/abdelrahmanhamed447-boop/Certifications
 
 ## ⭐ Final Note
 
-This repository serves as a central portfolio for my **Network Engineering, Cloud Networking, Microsoft Azure, Windows Server, Identity Management, Governance, Endpoint Management, and Network Automation projects**.
+This repository serves as a central portfolio for my **Network Engineering, Cloud Networking, Microsoft Azure, Microsoft 365, Windows Server, Identity Management, Governance, Endpoint Management, and Network Automation projects**.
 
 ⭐ **Feel free to explore the projects, repositories, and technical documentation.**
